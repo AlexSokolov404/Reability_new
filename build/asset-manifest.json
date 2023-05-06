@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ebdf30b.chunk.css",
+    "main.js": "/static/js/main.100586d0.chunk.js",
+    "main.js.map": "/static/js/main.100586d0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6112e5e5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6112e5e5.js.map",
+    "static/js/2.49eb11c9.chunk.js": "/static/js/2.49eb11c9.chunk.js",
+    "static/js/2.49eb11c9.chunk.js.map": "/static/js/2.49eb11c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2ebdf30b.chunk.css.map": "/static/css/main.2ebdf30b.chunk.css.map",
+    "static/js/2.49eb11c9.chunk.js.LICENSE.txt": "/static/js/2.49eb11c9.chunk.js.LICENSE.txt",
+    "static/media/Arm.97e82f01.svg": "/static/media/Arm.97e82f01.svg",
+    "static/media/Download_model.60e4e693.svg": "/static/media/Download_model.60e4e693.svg",
+    "static/media/Exit.3b4b9ff0.svg": "/static/media/Exit.3b4b9ff0.svg",
+    "static/media/Help.ea7709f5.svg": "/static/media/Help.ea7709f5.svg",
+    "static/media/Logo_vavko.5e571253.png": "/static/media/Logo_vavko.5e571253.png",
+    "static/media/New_model.6e03a858.svg": "/static/media/New_model.6e03a858.svg",
+    "static/media/Server_group.22d1df14.svg": "/static/media/Server_group.22d1df14.svg",
+    "static/media/Settings.d2849815.svg": "/static/media/Settings.d2849815.svg",
+    "static/media/Switch.f1c467d1.svg": "/static/media/Switch.f1c467d1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6112e5e5.js",
+    "static/js/2.49eb11c9.chunk.js",
+    "static/css/main.2ebdf30b.chunk.css",
+    "static/js/main.100586d0.chunk.js"
+  ]
+}
